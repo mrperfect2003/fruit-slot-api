@@ -112,6 +112,3 @@ go test ./repo
 [Portfolio](https://keshav-raj.web.app/) • [GitHub](https://github.com/mrperfect2003) • [LinkedIn](https://www.linkedin.com/in/keshavraj18)
 
 ---
-
-##  License
-This project is open source under the [MIT License](LICENSE).
